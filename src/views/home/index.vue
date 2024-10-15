@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="home">
     <SvgIcon name="vue"></SvgIcon>
     <el-form :model="form" label-width="auto" style="max-width: 600px">
       <el-form-item label="Activity name">
